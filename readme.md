@@ -14,7 +14,7 @@ python train.py --mode train --episodes 3000 --qtable snake_q_table.json --tick 
 python train.py --mode play --games 10 --qtable snake_q_table.json --tick 10
 ```
 
-## 🎯 Arguments disponibles
+## Arguments disponibles
 
 | Argument | Valeurs possibles | Description |
 |----------|------------------|-------------|
