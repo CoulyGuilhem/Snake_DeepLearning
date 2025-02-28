@@ -2,6 +2,12 @@
 
 Ce projet permet d'entraîner une IA pour jouer au jeu Snake.
 
+## Installation des dépendances
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Exécution
 
 ### **Entraîner l'IA**
